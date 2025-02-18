@@ -1,0 +1,5 @@
+library(here)
+dir_dataraw <- here("data-raw")
+dir_data <- here("data")
+dir_fig <- here("figures")
+dir_oecd <- c("D:/data_projects/oecd_general")
